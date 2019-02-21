@@ -1,4 +1,4 @@
-# fmi-code-examples
+# FMI Code Examples
 
 Code Projects and Examples from the Computer Science courses of University of Bucharest 
 
