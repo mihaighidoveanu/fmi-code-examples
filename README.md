@@ -1,6 +1,6 @@
 # FMI Code Examples
 
-Code Projects and Examples from the Computer Science courses of University of Bucharest 
+Code Projects and Examples compilation from the Computer Science courses of University of Bucharest 
 
 ## Anul 2
 1. [Real-Time chat and Group chat - *Python, Flask*](https://github.com/mihaighidoveanu/Links) : Metode de Dezvoltare Software
